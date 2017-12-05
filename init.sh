@@ -12,9 +12,10 @@ else
   cd $__dir__
 
 fi
-####test commit and push######
-####test commit and push######
-####test commit and push######
-####test commit and push######
-####test commit and push######
-####test commit and push######
+####test commit and push 1######
+####test commit and push 2######
+####test commit and push 3######
+####test commit and push 4######
+####test commit and push 5######
+####test commit and push 6######
+####test commit and push 7######
